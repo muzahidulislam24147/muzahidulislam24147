@@ -1,8 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=headers&text=MD.%20MUZAHIDUL%20ISLAM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=headers&text=MD.%20MUZAHIDUL%20ISLAM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <p><em>🚀 Full-Stack Web Developer & Professional Digital Marketing Specialist</em></p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Web+Developer;Digital+Marketing+Specialist;Passionate+Coder+%26+Tech+Lover" alt="Typing SVG" />
+  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=muzahidulislam24147&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -37,14 +39,10 @@
 
 ---
 
-### 📊 GitHub Stats & Analytics:
+### 📊 GitHub Analytics & Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulislam24147&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidulislam24147&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulislam24147&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -54,6 +52,7 @@
   <a href="https://wa.me/8801325822954" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://muzahidul.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
