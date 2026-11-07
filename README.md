@@ -1,11 +1,12 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://muzahidul.netlify.app" target="_blank">MD. Muzahidul Islam</a> 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=headers&text=MD.%20MUZAHIDUL%20ISLAM&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
   <p><em>🚀 Full-Stack Web Developer & Professional Digital Marketing Specialist</em></p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=muzahidulislam24147&style=flat-square&color=blue" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-success?style=flat-square" alt="Available for hire" />
+    <img src="https://komarev.com/ghpvc/?username=muzahidulislam24147&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FREELANCE-success?style=for-the-badge&logo=appveyor" alt="Available for hire" />
   </p>
 
 </div>
@@ -36,14 +37,14 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions:
+### 📊 GitHub Stats & Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulislam24147&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulislam24147&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidulislam24147&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidulislam24147&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
